@@ -1,0 +1,28 @@
+.card .card-icons{
+    position: relative;
+}
+.card .fa-play{
+    position: absolute;
+    top: 43%;
+    right: 41%;
+    order: #171a1ac7;
+    display: none;
+}
+.card .card-icons1{
+    position: relative;
+}
+@media (max-width: 593px) {
+    .navbar-light .navbar-nav .nav-link{
+        font-size: 13px;
+        padding-right: 4px;
+        padding-left: 4px;
+    }
+    
+}
+@media (max-width: 594px) {
+    .navbar-light .navbar-nav .nav-link{
+        padding-right: 4px;
+        padding-left: 4px;
+    }
+    
+}
